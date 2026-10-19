@@ -1,0 +1,7 @@
+# Configuración personal de Claude Code (no se comparte con el equipo)
+CLAUDE.local.md
+.claude/settings.local.json
+
+# Secretos y variables de entorno
+.env
+.env.*
